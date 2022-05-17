@@ -106,17 +106,17 @@ export const tools: Skill[] = [
 ];
 
 export const projects: IProject[] = [
-  /*{ 
-    name: "COVID Tracker",
+  { 
+    name: "Resume Builder",
     description:
-      "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
+      "This app to Build your own resumme using various templets",
+    image_path: "/images/Resume.png",
     deployed_url: "https://covid-19-tracker-by-sumit.web.app/",
-    github_url: "https://github.com/Dey-Sumit/covid-19-tracker",
+    github_url: "https://github.com/Anu374/Resume-builfder.git",
     category: ["react"],
     key_techs: ["React", "Chart.js", "Material UI"],
   },
-  {
+  /*{
     name: "Algorithm Visualizer",
     image_path: "/images/algoVisual.png",
     deployed_url: "https://visual-algorithm.web.app/",

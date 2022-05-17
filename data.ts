@@ -1,5 +1,5 @@
 import { RiComputerLine } from "react-icons/ri";
-import { FaServer } from "react-icons/fa";
+import { FaServer,FaDiscord } from "react-icons/fa";
 import { AiOutlineAntDesign, AiOutlineApi } from "react-icons/ai";
 import { MdDeveloperMode } from "react-icons/md";
 import { IProject, Service, Skill } from "./types";
@@ -37,10 +37,10 @@ export const services: Service[] = [
       "stunning user interface designer using <b>Figma</b>  and  <b>Framer</b> ",
   },
   {
-    Icon: RiComputerLine,
-    title: "Whatever",
+    Icon: FaDiscord,
+    title: "Discord Bot Design",
     about:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis minima autem!",
+      "Discord bot development using Node, Js on Replit, Hiroku and Glitch. i Deploy bot such as Music bot , Dm mass Bot, Support bot and managment bot.",
   },
 ];
 
@@ -48,22 +48,27 @@ export const languages: Skill[] = [
   {
     Icon: BsCircleFill,
     name: "Python",
-    level: "45",
+    level: "35",
+  },
+  {
+    Icon: BsCircleFill,
+    name: "Java",
+    level: "70",
   },
   {
     Icon: BsCircleFill,
     name: "Java Script",
-    level: "60",
+    level: "50",
   },
-  {
+  /*{
     Icon: BsCircleFill,
     name: "React Native",
     level: "80",
-  },
+  },*/
   {
     Icon: BsCircleFill,
     name: "React",
-    level: "70",
+    level: "65",
   },
   {
     Icon: BsCircleFill,
@@ -101,7 +106,7 @@ export const tools: Skill[] = [
 ];
 
 export const projects: IProject[] = [
-  { 
+  /*{ 
     name: "COVID Tracker",
     description:
       "This app shows a statistical view about corona virus over the world",
@@ -199,5 +204,5 @@ export const projects: IProject[] = [
     description:
       "o my goal replica where an user can keep an eye on his favorite club.This app will keep providing \n all the statistics of that club.all the fans can also chat ",
     key_techs: ["React", "Redux", "Firebase Auth", "API", "Sass", "Bootstrap"],
-  },
+  }, */
 ];

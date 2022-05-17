@@ -32,8 +32,8 @@ const Sidebar = () => {
       </p>
       {/* Resume */}
       <a
-        href="anu-resume.pdf"
-        download="anu-resume.pdf"
+        href="https://github.com/Anu374/Resume/raw/f5fe798695bb2908f4529965e0215ed81524d3ba/Anu-resume.pdf"
+        download="Anu-resume.pdf"
         className="flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer dark:bg-dark-200 dark:bg-black-500"
       >
         <GiTie className="w-6 h-6" />

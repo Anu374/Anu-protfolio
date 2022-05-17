@@ -111,10 +111,10 @@ export const projects: IProject[] = [
     description:
       "This app to Build your own resumme using various templets",
     image_path: "/images/Resume.png",
-    deployed_url: "https://resume-builfder.vercel.app/",
-    github_url: "https://github.com/Anu374/Resume-builfder.git",
+    deployed_url: "https://resume-builder-coral.vercel.app/",
+    github_url: "https://github.com/Anu374/Resume-builder.git",
     category: ["react"],
-    key_techs: ["React", "Chart.js", "Material UI"],
+    key_techs: ["React", "Next.js", "Material UI"],
   },
   /*{
     name: "Algorithm Visualizer",

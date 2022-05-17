@@ -111,7 +111,7 @@ export const projects: IProject[] = [
     description:
       "This app to Build your own resumme using various templets",
     image_path: "/images/Resume.png",
-    deployed_url: "https://covid-19-tracker-by-sumit.web.app/",
+    deployed_url: "https://resume-builfder.vercel.app/",
     github_url: "https://github.com/Anu374/Resume-builfder.git",
     category: ["react"],
     key_techs: ["React", "Chart.js", "Material UI"],

@@ -2,7 +2,7 @@
 
 ### Developer Portfolio made with Next JS Framer Motion and TypeScript.
 
-![Portfolio]("https://drive.google.com/file/d/16nMPVXzPONEN5nLieP9BTZYn9VrgpSH-/view?usp=sharing")
+<!-- ![Portfolio]("../public/images/Screenshot (10).png") -->
 
 ## Installation
 

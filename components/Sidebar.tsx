@@ -3,7 +3,7 @@ import { GiTie } from "react-icons/gi";
 import { GoLocation } from "react-icons/go";
 import { useTheme } from "next-themes";
 import Image from "next/image";
-import { FaBlog } from 'react-icons/fa';
+
 
 
 
@@ -74,9 +74,12 @@ const Sidebar = () => {
       >
         Email me
       </button>
-      <a href="https://blog-site-ptnyujz2s-anu374.vercel.app/" >
-          <FaBlog className="w-8 h-8 cursor-pointer" />
-        </a>
+      <button
+        className="w-8/12 px-5 py-2 text-white bg-black rounded-full cursor-pointer bg-gradient-to-r from-green to-blue-500 hover:scale-105 focus:outline-none"
+        onClick={() => window.open("https://blog-site-mu.vercel.app/")}
+      >
+        Blog
+      </button>
       
       <button
         onClick={changeTheme}

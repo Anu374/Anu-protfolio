@@ -136,8 +136,7 @@ export const projects: IProject[] = [
     description:
       "This is a Streaming App , ",
     key_techs: [
-      "HTML5",
-      "CSS3",
+     
       "Node",
      
     ],

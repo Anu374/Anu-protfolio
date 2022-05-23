@@ -27,7 +27,7 @@ const ProjectsNavbar: FunctionComponent<{
       <NavItem value="mongo" {...props} />
       <NavItem value="django" {...props} />
       <NavItem value="node" {...props} />
-      <NavItem value="HTML","CSS" {...props} />
+  
     </div>
   );
 };

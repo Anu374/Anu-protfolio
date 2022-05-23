@@ -127,7 +127,7 @@ export const projects: IProject[] = [
     key_techs: ["React", "firebase", "Framer Motion"],
   },*/
 
-  {
+  /*{
     name: "Amazon Prime Clone",
     image_path: "/images/dev.jpg",
     deployed_url: "https://amazon-prime-page.vercel.app/",
@@ -142,7 +142,7 @@ export const projects: IProject[] = [
     ],
   },
 
-  /*{
+  {
     name: "Realtime Chat App",
     image_path: "/images/chatapp.jpg",
     deployed_url: "https://sumit-chat.netlify.app/",

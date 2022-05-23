@@ -125,28 +125,25 @@ export const projects: IProject[] = [
     description:
       "An web app which shows how an algorithm (path finding or sorting) works with cool animation",
     key_techs: ["React", "firebase", "Framer Motion"],
-  },
+  },*/
 
   {
-    name: "Dev Talks",
+    name: "Amazon Prime Clone",
     image_path: "/images/dev.jpg",
-    deployed_url: "https://dev-talks.herokuapp.com/",
-    github_url: "https://github.com/Dey-Sumit/Dev-talks",
-    category: ["node", "mongo", "react"],
+    deployed_url: "https://amazon-prime-page.vercel.app/",
+    github_url: "https://github.com/Anu374/Amazon-Prime-page.git",
+    category: ["node", "CSS", "HTML"],
     description:
-      "Social Media app for developers who can share project,create posts,etc...",
+      "This is a Streaming App , ",
     key_techs: [
-      "React",
-      "Redux",
+      "HTML5",
+      "CSS3",
       "Node",
-      "Express",
-      "Mongo",
-      "REST API",
-      "Bootstrap",
+     
     ],
   },
 
-  {
+  /*{
     name: "Realtime Chat App",
     image_path: "/images/chatapp.jpg",
     deployed_url: "https://sumit-chat.netlify.app/",

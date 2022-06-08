@@ -119,7 +119,7 @@ export const projects: IProject[] = [
     deployed_url: "https://amazon-prime-page.vercel.app/",
     github_url: "https://github.com/Anu374/Amazon-Prime-page.git",
     category: ["HTML/CSS"],
-    key_techs: ["HTML5", "CSS3"],
+    key_techs: ["HTML", "CSS"],
     
   
 ];

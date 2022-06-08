@@ -112,5 +112,14 @@ export const projects: IProject[] = [
     category: ["react"],
     key_techs: ["React", "Next.js", "Material UI"],
   },
+  {
+    name: "Amazon Prime",
+    description: "This app is clone of Amazon prime front page.",
+    image_path: "/image/Resume.png",
+    deployed_url: "https://amazon-prime-page.vercel.app/",
+    github_url: "https://github.com/Anu374/Amazon-Prime-page.git",
+    category: ["HTML/CSS"],
+    key_techs: ["HTML5", "CSS3"],
+    
   
 ];

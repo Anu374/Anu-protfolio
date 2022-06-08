@@ -21,7 +21,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 --- 
 ## Contact
 
-Sumit Dey- [code.anukesah@gmail.com](mailto:code.anukesah@gmail.com)
+Anu Kr Sah- [code.anukesah@gmail.com](mailto:code.anukesah@gmail.com)
 
 
 

@@ -22,7 +22,7 @@ const Resume = () => {
         <div>
           <h5 className="my-3 text-2xl font-bold">Experience</h5>
           <div className="">
-            <h5 className="my-2 text-xl font-bold">Web Developer</h5>
+            <h5 className="my-2 text-xl font-bold">Quality Engineer</h5>
             <p className="font-semibold">Xiaolin Electronics</p>
             <p className="my-3">I don't know why I am doing this job</p>
           </div>

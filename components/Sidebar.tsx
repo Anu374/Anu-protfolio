@@ -54,7 +54,7 @@ const Sidebar = () => {
           <GoLocation className="mr-2" /> <span>Noida,India </span>
         </div>
         <p className="my-2 "> code.anukrsah@gmail.com </p>
-        <p className="my-2"> 6261146343 / 9162225406 </p>
+        <p className="my-2"> +91 6261146343 </p>
       </div>
 
       {/* Email Button */}
